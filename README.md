@@ -52,16 +52,18 @@ desktop prototype but not for a production system.
 ## Data storage
 
 There is no database. Each user has their own folder under `Learner/` or
-`Educator/`, containing a `accountDetails.csv` and an `inventory.csv`.
+`Educator/`, containing an `accountDetails.csv` and an `inventory.csv`.
 Classrooms live inside the educator's folder. Global files at the root
 handle the user master list and leaderboard scores.
 
+```
 QuickQuirkGameLab/
-|-- usermasterlist.csv — all registered users
-|-- classrooms.csv — classroom registry
-|-- Leaderboard/ — mathGame.csv, engGame.csv
-|-- Educator/ed1/ — account details and classrooms (for ed1 account)
-|-- Learner/tone/ — account details and inventory (for tone account)
+├── usermasterlist.csv       — all registered users
+├── classrooms.csv           — classroom registry
+├── Leaderboard/             — mathGame.csv, engGame.csv
+├── Educator/ed1/            — account details and classrooms
+└── Learner/tone/            — account details and inventory
+```
 
 
 ## Built with
