@@ -15,27 +15,28 @@ and educator having their own folder in the project directory.
 
 ## Features
 
-**Learner**
-- Three subject modules: Maths, English, and Chemistry, with more marked as
-  coming soon
-- **Maths Course** — lessons on the four arithmetic operations and algebra,
-  with worked examples
-- **English Course** — punctuation lessons covering commas, periods, question
-  marks, and exclamation marks
-- **Chemistry Course** — an interactive States of Matter lesson where
-  learners trigger state changes by heating and cooling a substance
-- **Maths Game** — a timed mental maths quiz generating random arithmetic and
-  algebra questions; answers submitted via an on-screen number pad
-- **English Game** — a punctuation quiz
-- **Coin system** — correct answers earn coins; coins are spent in the shop
-  to unlock cosmetic items
-- **Leaderboard** — scores for each game are saved and ranked
-- **Profile editing** — learners can update their account details
+Designed with learners with ADHD in mind, the interface keeps each screen
+minimal, with large buttons and obvious input fields.
 
-**Educator**
-- Create classrooms with a classroom code
-- Add learners to classrooms by username
-- View classroom learner lists
+**Learners**
+- **Courses** — Maths (arithmetic, integers and rational numbers, algebraic
+  equations), English (basic punctuation and vocabulary flash cards), and
+  Chemistry (an interactive States of Matter lesson). Physics and Biology are
+  listed as coming soon.
+- **Mental Maths** — a 10-question game solving algebraic equations with an
+  on-screen number pad
+- **Spelling Bee** — a 10-question game where learners unscramble a word
+  from its definition
+- **Gold and shop** — games award gold based on score, which learners spend
+  on profile icons
+- **Leaderboards** — each game ranks players by their best score
+- **Profile editing** — update account details and equip purchased icons
+
+**Educators**
+- Create classrooms and add learners by username
+- View each classroom's learners alongside their Maths and English high scores
+
+For a full walkthrough with screenshots, see the [User Guide](USER_GUIDE.md).
 
 ## Sample accounts
 
