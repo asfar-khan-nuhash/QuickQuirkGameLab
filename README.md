@@ -58,11 +58,11 @@ handle the user master list and leaderboard scores.
 
 ```
 QuickQuirkGameLab/
-├── usermasterlist.csv       — all registered users
-├── classrooms.csv           — classroom registry
-├── Leaderboard/             — mathGame.csv, engGame.csv
-├── Educator/ed1/            — account details and classrooms
-└── Learner/tone/            — account details and inventory
+    usermasterlist.csv       — all registered users
+    classrooms.csv           — classroom registry
+    Leaderboard/             — mathGame.csv, engGame.csv
+    Educator/ed1/            — account details and classrooms
+    Learner/tone/            — account details and inventory
 ```
 
 
