@@ -4,11 +4,13 @@ QuickQuirk GameLab is a learning app where you work through short lessons, play 
 
 This guide walks you through everything the app can do.
 
-> **Important Note:** This is a prototype. Everything you enter is saved in
-> files on your own computer, and nothing is sent anywhere. Email addresses
-> aren't verified, so any address will work. Names, emails and passwords are
-> all saved in CSV files without encryption and can be read directly, so do
-> NOT use your real name, email or password.
+> [!WARNING]
+> **Important Note:**
+> This is a prototype. Everything you enter is saved in files on your own
+> computer, and nothing is sent anywhere. Email addresses aren't verified, so
+> any address will work. Names, emails and passwords are all saved in CSV files
+> without encryption and can be read directly, so do NOT use your real name,
+> email or password.
 
 ## Contents
 
